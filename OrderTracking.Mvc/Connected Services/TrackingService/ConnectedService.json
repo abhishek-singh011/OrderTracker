@@ -1,0 +1,45 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "../../OrderTraker/PurolatorEshipWS_Tracking_wsdl (3)/Development/TrackingService.wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, TrackingService"
+    ],
+    "references": [
+      "Microsoft.AspNetCore.Mvc.Razor.Extensions, {Microsoft.AspNetCore.Mvc.Razor.Extensions, 3.1.25}",
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation, {Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation, 3.1.25}",
+      "Microsoft.AspNetCore.Razor.Language, {Microsoft.AspNetCore.Razor.Language, 3.1.25}",
+      "Microsoft.CodeAnalysis, {Microsoft.CodeAnalysis.Common, 3.3.0}",
+      "Microsoft.CodeAnalysis.CSharp, {Microsoft.CodeAnalysis.CSharp, 3.3.0}",
+      "Microsoft.CodeAnalysis.Razor, {Microsoft.CodeAnalysis.Razor, 3.1.25}",
+      "Microsoft.Extensions.DependencyModel, {Microsoft.Extensions.DependencyModel, 3.1.25}",
+      "System.Collections.Immutable, {System.Collections.Immutable, 1.5.0}",
+      "System.Reflection.DispatchProxy, {System.Reflection.DispatchProxy, 4.5.0}",
+      "System.Reflection.Metadata, {System.Reflection.Metadata, 1.6.0}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.5.2}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 4.5.0}",
+      "System.Security.Cryptography.Xml, {System.Security.Cryptography.Xml, 4.5.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 4.5.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.5.0}",
+      "System.ServiceModel, {System.ServiceModel.Primitives, 4.7.0}",
+      "System.ServiceModel.Duplex, {System.ServiceModel.Duplex, 4.7.0}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 4.7.0}",
+      "System.ServiceModel.NetTcp, {System.ServiceModel.NetTcp, 4.7.0}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 4.7.0}",
+      "System.ServiceModel.Security, {System.ServiceModel.Security, 4.7.0}",
+      "System.Text.Encoding.CodePages, {System.Text.Encoding.CodePages, 4.5.1}",
+      "System.Text.Encodings.Web, {System.Text.Encodings.Web, 4.7.2}",
+      "System.Text.Json, {System.Text.Json, 4.7.2}"
+    ],
+    "sync": true,
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+    
+  }
+}
